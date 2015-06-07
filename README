@@ -1,3 +1,5 @@
+NOTE: This project, wiki, and issues are exported from https://code.google.com/p/truecrack/
+
 TRUECRACK v3.6
 --------------
 website: http://www.truecrack.net , http://code.google.com/p/truecrack
@@ -48,7 +50,8 @@ cd truecrack
 ./configure
 make
 sudo make install
- 
+(Note: if you get errors while "make", may be you should configure with "--enable-cpu")
+
 6. LICENSE
 TrueCrack is an Open Source Software under GNU Public License version 3.
 This software is Based on TrueCrypt, freely available at http://www.truecrypt.org/
